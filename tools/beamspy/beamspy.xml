@@ -1,4 +1,4 @@
-<tool id="beamspy" name="BEAMSpy" version="1.1.0">
+<tool id="beamspy_galaxy" name="BEAMSpy" version="1.1.0+galaxy0">
     <description> - Birmingham mEtabolite Annotation for Mass SpectroMetry</description>
     <requirements>
         <requirement type="package" version="1.1.0">beamspy</requirement>
@@ -423,5 +423,6 @@ Developers and contributors
 
     </help>
     <citations>
+
     </citations>
 </tool>

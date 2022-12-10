@@ -1,6 +1,6 @@
 BEAMSpy for Galaxy
 ========================
-|Build Status (Travis)| |Git| |Bioconda| |License|
+|Git| |Bioconda| |License|
 
 Galaxy tools for Python package BEAMSpy: 
 
@@ -29,10 +29,6 @@ Changes
 License
 -------
 Released under the GNU General Public License v3.0 (see `LICENSE file <https://github.com/computational-metabolomics/beamspy-galaxy/blob/master/LICENSE>`_)
-
-
-.. |Build Status (Travis)| image:: https://img.shields.io/travis/computational-metabolomics/beamspy-galaxy.svg?style=flat&maxAge=3600&label=Travis-CI
-   :target: https://travis-ci.org/computational-metabolomics/beamspy-galaxy
 
 .. |Git| image:: https://img.shields.io/badge/repository-GitHub-blue.svg?style=flat&maxAge=3600
    :target: https://github.com/computational-metabolomics/beamspy
